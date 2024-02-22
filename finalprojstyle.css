@@ -1,0 +1,8 @@
+* { color: white; }
+td.headerLinks { border-style: solid; border-color: #201136 #f5ebae #201136 #f5ebae; }
+p { text-align: left; }
+body { background-color: #201136; }
+input { background: #f5ebae; color: #32205e; }
+a { text-decoration: none; }
+a:visited { color: #f5aedc; }
+a:link { color: #f5ebae; }
